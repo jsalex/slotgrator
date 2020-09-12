@@ -5,4 +5,5 @@
 _Frontend и Backend полностью рабочие.
 
 Backend сгенерирован через gii и дописан функционал для отправки подарка в GridView::widget
+
 Frontend основной код в /controllers/LotteryController.php ну js скрипты в шаблонах
